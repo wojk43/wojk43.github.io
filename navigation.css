@@ -17,6 +17,14 @@
   color: black;
 }
 
+table, td {
+  border: 1px solid #92a8d1;
+  border-collapse: collapse;
+}
+td {
+  background-color: #ADD8E6;
+}
+
 body {
   background-color: #92a8d1;
 }
