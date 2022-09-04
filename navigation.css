@@ -18,14 +18,17 @@
 }
 
 table, td {
-  border: 1px solid #92a8d1;
-  border-collapse: collapse;
 }
 td {
   background-color: #ADD8E6;
   font-size: 20px;
-  text-allign: center;
-  border-radius: 30px;
+  text-align: center;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid black;
 }
 
 body {
