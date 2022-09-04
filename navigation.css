@@ -17,8 +17,6 @@
   color: black;
 }
 
-table, td {
-}
 td {
   background-color: #ADD8E6;
   font-size: 20px;
@@ -34,6 +32,8 @@ td {
 td a{
   display: block;
   width = 100%;
+  position: relative;
+  text-decoration: none;
 }
 td a:hover{
   background-color: #89B6C7;
