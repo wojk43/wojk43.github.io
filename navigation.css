@@ -1,6 +1,7 @@
 .topnav {
   overflow: hidden;
   background-color: #ADD8E6;
+  margin: 0px;
 }
 
 .topnav a {
@@ -41,5 +42,5 @@ td a:hover{
 }
 body {
   background-color: #92a8d1;
-  margin: 0px;
+
 }
