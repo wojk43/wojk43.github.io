@@ -34,6 +34,7 @@ td a{
   width = 200%;
   position: relative;
   text-decoration: none;
+  float: left;
 }
 td a:hover{
   background-color: #89B6C7;
