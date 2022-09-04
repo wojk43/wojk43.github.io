@@ -33,6 +33,7 @@ td {
 
 td a{
   display: block;
+  width = 100%;
 }
 td a:hover{
   background-color: #89B6C7;
