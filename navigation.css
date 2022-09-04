@@ -31,6 +31,12 @@ td {
   border: 2px solid black;
 }
 
+td a{
+  display: block;
+}
+td a:hover{
+  background-color: #89B6C7;
+
 body {
   background-color: #92a8d1;
 }
