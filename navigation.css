@@ -27,6 +27,7 @@ td {
   padding-top: 20px;
   padding-bottom: 20px;
   border: 2px solid black;
+  overflow: hidden;
 }
 
 td a{
