@@ -18,9 +18,6 @@
   color: black;
 }
 
-a:visited {
-  text-decoration: none;
-}
 
 td {
   background-color: #ADD8E6;
@@ -37,11 +34,19 @@ td a{
   width = 100%;
   height = 100%;
   text-decoration: none;
-  margin: 0px;
 }
 td a:hover{
   background-color: #89B6C7;
 }
+
+td a: link{
+  text-decoration: none;
+}
+td a: visited{
+  text-decoration: none;
+  color: blue;
+}
+
 body {
   background-color: #92a8d1;
   margin: 0px;
