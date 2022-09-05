@@ -18,6 +18,10 @@
   color: black;
 }
 
+a {
+  text-decoration: none;
+}
+
 td {
   background-color: #ADD8E6;
   font-size: 20px;
