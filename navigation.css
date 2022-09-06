@@ -58,3 +58,9 @@ p {
 h2 {
   margin: 16px;
 }
+
+br {
+  display: block;
+  content: " ";
+  margin-top: 10px;
+}
