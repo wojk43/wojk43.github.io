@@ -18,12 +18,15 @@
   color: black;
 }
 
+table {
+  margin: 16px;
+}
 
 td {
   background-color: #ADD8E6;
   font-size: 20px;
   text-align: center;
-  border-radius: 15px;
+  border-radius: 5px;
   width: 50px;
   border: 2px solid black;
   overflow: hidden;
