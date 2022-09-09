@@ -57,12 +57,19 @@ body {
 
 p {
   margin: 16px;
+  font-family: 'Times New Roman', serif;
 }
+li {
+  font-family: 'Times New Roman', serif;
+}
+
 h2 {
   margin: 16px;
+  font-family: 'Times New Roman', serif;
 }
 h3 {
   margin: 16px;
+  font-family: 'Times New Roman', serif;
 }
 
 br {
