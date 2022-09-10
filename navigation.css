@@ -1,7 +1,6 @@
 .topnav {
   overflow: hidden;
   background-color: #ADD8E6;
-
 }
 
 .topnav a {
@@ -87,4 +86,8 @@ br {
    background-color: #89B6C7;
    color: black;
    text-align: center;
+}
+
+.citation {
+  font-size: 50%;
 }
