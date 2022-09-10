@@ -78,3 +78,13 @@ br {
   content: " ";
   margin-top: 10px;
 }
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #89B6C7;
+   color: black;
+   text-align: center;
+}
