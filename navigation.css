@@ -34,8 +34,7 @@ td {
 
 td a{
   display: block;
-
-  float: left;
+  float: center;
   display: block;
   color: black;
   text-align: center;
