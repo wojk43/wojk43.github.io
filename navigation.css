@@ -90,7 +90,7 @@ br {
 
 .collapsible {
   background-color: #ADD8E6;
-  color: #92a8d1;
+  color: black;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -101,7 +101,7 @@ br {
 }
 
 .active, .collapsible:hover {
-  background-color: #555;
+  background-color: #89B6C7;
 }
 
 .content {
@@ -109,5 +109,5 @@ br {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+  background-color: #92a8d1;
 }
