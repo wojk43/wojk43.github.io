@@ -34,16 +34,19 @@ body {
 .y1 {
   float: left;
   width: 33%;
+  padding-left: 10px;
 }
 
 .y2 {
   float: left;
   width: 33%;
+  padding-left: 10px;
 }
 
 .y3 {
   float: left;
   width: 33%;
+  padding-left: 10px;
 }
 
 /* Fake image */
